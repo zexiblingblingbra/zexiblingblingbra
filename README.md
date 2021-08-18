@@ -1,7 +1,7 @@
-- 👋 I’m @zexiblingblingbra
-- 👀 I’m interested in C, C++
-- 🌱 I’m currently learning C&C++
-- 💞️ I’m looking to collaborate on (unknown)
+- 👋 @zexiblingblingbra
+- 👀 
+- 🌱 
+- 💞️ 
 - 📫 email: 1205981724s@gmail.com
 
 <!---
